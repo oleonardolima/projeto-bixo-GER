@@ -1,5 +1,5 @@
 //OBS.: Galera comentem aqui em cima quais as mudancas que implementaram ou erros corrigidos e a ultima versao, como nem todo mundo sabe utilizar git ou possui conta no Github, por enquanto esse pode ser o metodo para "controle de versao"
-//Ultima versao v1.1 - 28/05
+//Ultima versao v1.2 - 29/05
 //Mudancas: Funcoes de controle implementadas e um mini teste para ver se estao funcionando corretamente, e troca dos nomes de variaveis "couve" e "repolho" para melhor andamento do codigo.
 
 //Input motor direito : 2 e 4
